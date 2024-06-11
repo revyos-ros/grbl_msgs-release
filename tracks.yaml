@@ -1,4 +1,4 @@
-release_repo_url: https://github.com/flynneva/grbl_msgs-release.git
+release_repo_url: git@github.com:revyos-ros/grbl_msgs-release.git
 tracks:
   dashing:
     actions:
